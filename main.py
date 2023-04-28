@@ -1,5 +1,5 @@
 #apt install docker docker.io
-#systemstl enable docker
+#systemctl enable docker
 #systemctl start docker
 # docker run hello-world
 # systemctl status docker
